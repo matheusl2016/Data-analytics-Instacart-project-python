@@ -1,4 +1,4 @@
-# Instacart Customer Behavior & Purchase Analysis  
+# Análise de Comportamento e Compras dos clientes da Instacart  
 ## Sprint 3 – Projeto de Análise Exploratória de Dados (AED)
 
 ### 📌 Visão Geral  
