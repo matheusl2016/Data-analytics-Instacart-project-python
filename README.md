@@ -70,7 +70,7 @@ As seguintes etapas foram realizadas:
 - Ajuste de colunas numéricas
 
 ### ✅ Valores ausentes
-- Identificação e preenchimento de valores faltantes
+- Identificação e preenchimento de valores ausentes
 
 ### ✅ Duplicatas
 - Detecção e remoção de registros duplicados  
@@ -101,13 +101,11 @@ As seguintes etapas foram realizadas:
 
 ---
 
-## Principais Insights (exemplo genérico)
+## Principais Insights presentes no arquivo instacart_analysis.ipynb
 - Pico de compras à noite e aos fins de semana  
 - Alguns produtos dominam os pedidos recorrentes  
 - Clientes apresentam padrões consistentes de recompra  
 - Itens populares variam por departamento
-
-*(Essa seção pode ser ajustada depois com base nos resultados do seu notebook.)*
 
 ---
 
