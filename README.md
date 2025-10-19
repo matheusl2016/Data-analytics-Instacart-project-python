@@ -1,7 +1,7 @@
 # Análise de Comportamento e Compras dos clientes da Instacart  
 ## Sprint 3 – Projeto de Análise Exploratória de Dados (AED)
 
-### 📌 Visão Geral  
+### Visão Geral  
 Este projeto analisa o comportamento de compra dos clientes da **Instacart**, uma plataforma de entrega de supermercado similar ao iFood e Uber Eats.  
 O objetivo é limpar, explorar e visualizar os dados para entender padrões de consumo, frequência de pedidos, produtos mais populares e repetições de compra.
 
@@ -9,7 +9,7 @@ Os dados foram originalmente disponibilizados pela Instacart em uma competição
 
 ---
 
-## 🎯 Objetivos do Projeto
+## Objetivos do Projeto
 
 - Realizar limpeza e pré-processamento dos dados  
 - Explorar os hábitos de compra dos usuários  
@@ -19,7 +19,7 @@ Os dados foram originalmente disponibilizados pela Instacart em uma competição
 
 ---
 
-## 🗂️ Descrição dos Dados
+## Descrição dos Dados
 
 O projeto utiliza 5 arquivos CSV, cada um com uma parte do ecossistema da Instacart:
 
@@ -59,7 +59,7 @@ Colunas:
 
 ---
 
-## 🛠️ Pré-Processamento de Dados
+## Pré-Processamento de Dados
 
 As seguintes etapas foram realizadas:
 
@@ -99,7 +99,7 @@ As seguintes etapas foram realizadas:
 
 ---
 
-## 🔍 Principais Insights (exemplo genérico)
+## Principais Insights (exemplo genérico)
 - Pico de compras à noite e aos fins de semana  
 - Alguns produtos dominam os pedidos recorrentes  
 - Clientes apresentam padrões consistentes de recompra  
@@ -109,7 +109,7 @@ As seguintes etapas foram realizadas:
 
 ---
 
-## 🧪 Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 
 - **Linguagem:** Python  
 - **Bibliotecas:** pandas, numpy, matplotlib
