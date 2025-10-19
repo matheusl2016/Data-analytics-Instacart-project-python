@@ -7,6 +7,8 @@ O objetivo é limpar, explorar e visualizar os dados para entender padrões de c
 
 Os dados foram originalmente disponibilizados pela Instacart em uma competição do Kaggle (2017) e adaptados para este estudo com inclusão de valores ausentes e duplicados para prática de pré-processamento.
 
+Todo o projeto está desenvolvido no arquivo instacart_analysis.ipynb
+
 ---
 
 ## Objetivos do Projeto
