@@ -23,7 +23,7 @@ Os dados foram originalmente disponibilizados pela Instacart em uma competição
 
 O projeto utiliza 5 arquivos CSV, cada um com uma parte do ecossistema da Instacart:
 
-### 1. `instacart_orders.csv` -> não foi possível carregar no Github, arquivo muito grande!
+### 1. `instacart_orders.csv` 
 Cada linha representa um pedido.
 **Colunas principais:**
 - `order_id`
@@ -41,7 +41,7 @@ Colunas:
 - `aisle_id`
 - `department_id`
 
-### 3. `order_products.csv`
+### 3. `order_products.csv` -> não foi possível carregar no Github, arquivo muito grande!
 Itens incluídos em cada pedido.  
 Colunas:
 - `order_id`
