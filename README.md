@@ -1,3 +1,4 @@
+# Version in English:
 # Instacart Customer Behavior and Purchase Analysis  
 ## Sprint 3 – Exploratory Data Analysis (EDA) Project
 
@@ -118,7 +119,7 @@ The following steps were applied:
 - Environment: Jupyter Notebook
 
 ---
-#Versão em Português
+# Versão em Português
 
 # Análise de Comportamento e Compras dos clientes da Instacart  
 ## Sprint 3 – Projeto de Análise Exploratória de Dados (AED)
